@@ -32,7 +32,7 @@ detpl provides a series of functions for detection and analysis:
 ### Scenario 1: Detect if System Library Functions are Hooked
 To determine whether system library functions have been hooked by malware, execute the check with the following command:
 ```
-./detpl --syslib-check
+./detpl --syslib-check -nouselib
 ```
 #### Example Output
 ```
