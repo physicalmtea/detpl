@@ -36,6 +36,7 @@ To determine whether system library functions have been hooked by malware, execu
 ```
 #### Example Output
 ```
+[![785E4.jpeg](https://i.imgs.ovh/2025/02/23/785E4.jpeg)](https://imgloc.com/image/785E4)
 [+] opendir checking...!!!Found hooked address 0x7ffe3ae985d2 (/usr/lib/libseconf/libdl.so) <-> real address 0x7ffe3a983f60!!!
 [+] readdir checking...!!!Found hooked address 0x7ffe3ae981a1 (/usr/lib/libseconf/libdl.so) <-> real address 0x7ffe3a983fa0!!!
 ```
