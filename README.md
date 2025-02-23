@@ -51,6 +51,9 @@ After discovering that functions have been hooked, you can further search for po
 ./detpl --search-hidden-file /usr
 ```
 #### Example Output
+
+[![78ebN.jpeg](https://i.imgs.ovh/2025/02/23/78ebN.jpeg)](https://imgloc.com/image/78ebN)
+
 ```
 [HIDDEN FILE] /usr/lib/libseconf/libdl.so
 [HIDDEN FILE] /usr/lib/libseconf/.backup_ld.so
@@ -64,6 +67,9 @@ After confirming the hidden files, use the following command to view which proce
 ./detpl --so-search libdl.so
 ```
 #### Example Output
+
+[![7880A.jpeg](https://i.imgs.ovh/2025/02/23/7880A.jpeg)](https://imgloc.com/image/7880A)
+
 ```
 Found /usr/sbin/sshd(45893) /usr/lib/libseconf/libdl.so
 Found /usr/bin/bash(45901) /usr/lib/libseconf/libdl.so
