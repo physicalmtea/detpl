@@ -52,7 +52,7 @@ After discovering that functions have been hooked, you can further search for po
 ```
 #### Example Output
 
-[![78ebN.jpeg](https://i.imgs.ovh/2025/02/23/78ebN.jpeg)](https://imgloc.com/image/78ebN)
+[![78ebN.md.jpeg](https://i.imgs.ovh/2025/02/23/78ebN.md.jpeg)](https://imgloc.com/image/78ebN)
 
 ```
 [HIDDEN FILE] /usr/lib/libseconf/libdl.so
